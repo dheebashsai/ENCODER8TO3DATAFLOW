@@ -34,22 +34,27 @@ Logical circuit of the above expressions is given below:
 
 Figure 02  Encoder 8 * 3
 
-**Procedure**
-
-/* write all the steps invloved */
 
 **PROGRAM**
+![image](https://github.com/user-attachments/assets/8af9a7ee-7a8b-477c-b75f-ff257edae5ea)
+
+
 
 /* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:
+Developed by:Dheebash Sai R
+RegisterNumber:24900100
 */
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+![image](https://github.com/user-attachments/assets/6e366fad-f6db-4532-a8bf-1a82c721d456)
+
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+![image](https://github.com/user-attachments/assets/5914c820-ca2c-4504-aa3f-ab9b680140c2)
 
 **RESULTS**
+Thus the Encoder 8 to 3 datamodelling is implemented sucessfully.
 
 
 
